@@ -1,5 +1,16 @@
 ---
-title: "Tools"
+title: "The Ong Center for The Digital Humanities"
+description: |
+  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
-listing: posts
+listing: Tools
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
