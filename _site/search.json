@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T14:34:52-06:00"
+      "last_modified": "2022-11-28T14:41:38-06:00"
     },
     {
       "path": "index.html",
       "title": "Tools",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T14:34:52-06:00"
+      "last_modified": "2022-11-28T14:41:39-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
