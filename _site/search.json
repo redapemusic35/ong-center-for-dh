@@ -2,20 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "Ong Center for the Digital Humanities",
-      "description": "The Saint Louis University Walter J. Ong Center for Digital Humanities (OngCDH) is a multidisciplinary center that promotes creativity, innovative scholarship, excellence in teaching, and service to the community, through fostering collaborative engagement with the digital humanities. The center supports faculty and students in the College of Arts and Sciences by organizing and sponsoring conferences, lectures, workshops, and seminars; providing individual mentorship and guidance; and by facilitating access to information resources. OngCDH is dedicated to diversity, equity, and social responsibility. ",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T14:19:22-06:00"
+      "last_modified": "2022-11-28T14:34:52-06:00"
     },
     {
       "path": "index.html",
-      "title": "Ong Center for Digital Humanities",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Tools",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T14:19:23-06:00"
+      "last_modified": "2022-11-28T14:34:52-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
