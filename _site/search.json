@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T15:32:47-06:00"
+      "last_modified": "2022-11-28T15:35:58-06:00"
     },
     {
       "path": "index.html",
       "title": "Ong Center for Digital Humanities",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T15:32:47-06:00"
+      "last_modified": "2022-11-28T15:35:59-06:00"
     }
   ],
   "collections": ["posts/posts.json", "tools/tools.json"]
