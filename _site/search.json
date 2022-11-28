@@ -2,20 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T15:06:23-06:00"
+      "last_modified": "2022-11-28T15:18:11-06:00"
     },
     {
       "path": "index.html",
-      "title": "The Ong Center for The Digital Humanities",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Ong Center for Digital Humanities",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T15:06:23-06:00"
+      "last_modified": "2022-11-28T15:18:11-06:00"
     }
   ],
-  "collections": ["tools/tools.json"]
+  "collections": ["posts/posts.json"]
 }
