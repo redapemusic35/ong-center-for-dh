@@ -1,0 +1,64 @@
+---
+title: "Docanno"
+description: |
+  This is about the benefits of Docanno for crowdsourcing document annotations.
+author:
+  - name: Montaque Reynolds 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Welcome to Doccano
+
+1. Install Doccano, Git, and Docker
+2. Navigate to https://github.com/doccano/doccano
+3. install git and docker-cli
+4. fork https://github.com/doccano/doccano
+5. git clone your fork of doccano
+6. cd into cloned project
+7. create .env in root of cloned project with the following contents:
+8. Update Your Environment Settings (.env file in path)
+
+### Platform settings
+
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=password
+ADMIN_EMAIL=admin@example.com
+Blah
+
+### rabbit mq settings
+
+RABBITMQ_DEFAULT_USER=doccano
+RABBITMQ_DEFAULT_PASS=doccano
+Postgres settings
+
+### database settings
+
+POSTGRES_USER=doccano
+POSTGRES_PASSWORD=doccano
+POSTGRES_DB=doccano
+
+1. Deploy Your App
+2. Create Webapp
+3. run this command in your terminal docker-compose -f docker/docker-compose.prod.yml --env-file .env up, then access http://127.0.0.1/
+4. Inspect to see working
+5. Deploy to Host
+then click “Deploy to Heroku” button. Which will take you to heroku, create free account, go back to git project and click deploy button again
+6. site will run after 10 minutes or so
+
+### To add Users
+
+https://yourwebsite.herokuapp.com/admin/
+
+
+
+
+
+

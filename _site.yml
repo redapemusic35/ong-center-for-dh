@@ -10,5 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Tools"
-      href: audacity.html
+      href: Tools/index.html 
 output: distill::distill_article

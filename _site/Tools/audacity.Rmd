@@ -1,0 +1,70 @@
+---
+title: "Audacity"
+description: |
+ If you are interested in making a podcast, you need software to help you edit and arrange your sound files. Audacity is free, open source, cross-platform audio software. 
+author:
+  - name: Rachel Shields 
+    url: https://example.com/norajones
+    affiliation: Walter J. Ong Digital Humanities Center 
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+#install.packages("tidyverse")
+library(tidyverse)
+library(knitr)
+library(ExPanDaR)
+library(kableExtra)
+library(trackdown)
+library(googledrive)
+library(googlesheets4)
+gs4_deauth()
+drive_auth("reynoldsmf@slu.edu")
+#gs4_auth("https://drive.google.com/drive/folders/1coiTDL_J0rOrn-l-ENoSTlVHTYQSyac3?usp=sharing")
+opts_chunk$set(fig.pos = 'p') # Places figures on their own pages
+opts_chunk$set(out.width = '100%', dpi=300)
+opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, cache = FALSE)
+
+#trackdown::upload_file("audacity.Rmd",
+trackdown::update_file("audacity.Rmd",
+#trackdown::download_file("audacity.Rmd",
+#trackdown::render_file("Audacity",
+		shared_drive = "2022_GAs",
+		gpath = "Classroom\ support/Tools/Tools_public/",
+		gfile = "audacity.Rmd",
+		hide_code = TRUE,
+#		path_output = "audacity.pdf"
+)
+	
+```
+
+What is Audacity?
+
+If you are interested in making a podcast, you need software to help you edit and arrange your sound files. Audacity is free, open source, cross-platform audio software.
+
+How to get started
+
+To use Audacity, you first need to download it onto your personal computer.
+
+Visit https: [//www.audacityteam.org/](//www.audacityteam.org/)
+
+Click the blue “Download Audacity” button and complete the installation process.
+
+Open Audacity.
+
+Need more help?
+
+For the manual, visit https://manual.audacityteam.org/. Links to various tutorials are on this page, including “Editing an Audio File”, “Your First Recording”, and “Mixing Voice with Background Music”. 
+
+Further questions?
+
+Request an appointment: [https://www.slu.edu/arts-and-sciences/ong-center/book-appointment.php](https://www.slu.edu/arts-and-sciences/ong-center/book-appointment.php)
+
+
+
+
+
+
