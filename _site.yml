@@ -13,6 +13,8 @@ navbar:
       menu:
         - text: "Tools"
           href: tools.html
+        - text: "Posts"
+          href: posts.html
     - collections:
       posts:
         categories: false
