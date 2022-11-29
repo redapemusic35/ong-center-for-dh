@@ -9,4 +9,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Collections"
+      menu:
+        - text: "Tools"
+          href: posts.html
+      collection:
+        posts:
+          categories: false
+        tools:
+          categories: false
 output: distill::distill_article
