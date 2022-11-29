@@ -5,16 +5,16 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T23:30:51-06:00"
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n\n  \n    Collections\n     \n    \n  \n  \n      Tools\n    \n    \n      Latest News\n    \n    \n      Posts\n    \n  \n      \n  \n\n\n\n\n\n\nAbout this site\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-11-28T23:36:11-06:00"
     },
     {
       "path": "index.html",
       "title": "Ong",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T23:30:52-06:00"
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n\n  \n    Collections\n     \n    \n  \n  \n      Tools\n    \n    \n      Latest News\n    \n    \n      Posts\n    \n  \n      \n  \n\n\n\n\n\n\nOng\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-11-28T23:36:11-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
