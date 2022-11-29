@@ -13,4 +13,7 @@ navbar:
       menu:
         - text: "Tools"
           href: tools.html
+      collections:
+        tools:
+          categories: false
 output: distill::distill_article
