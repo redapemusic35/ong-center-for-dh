@@ -1,5 +1,0 @@
----
-title: "Ong Center for Digital Humanities"
-site: distill::distill_website
-listing: posts 
----

@@ -1,7 +1,7 @@
-name: "."
-title: "Digital Humanities"
+name: "Ong Center for the Digital Humanities"
+title: "Ong Center for the Digital Humanities"
 description: |
- DH 
+  Ong Center for the Digital Humanities
 output_dir: "_site"
 navbar:
   right:
@@ -9,15 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Collections"
-      menu:
-        - text: "Tools"
-          href: tools.html
-        - text: "Posts"
-          href: posts.html
     - collections:
-      posts:
-        categories: false
       tools:
         categories: false
 output: distill::distill_article

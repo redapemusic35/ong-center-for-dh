@@ -1,4 +1,0 @@
----
-title: "Posts"
-listing: ../_posts/
----
