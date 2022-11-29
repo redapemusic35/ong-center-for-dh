@@ -1,4 +1,4 @@
 ---
 title: "Posts"
-listing: posts
+listing: ../_posts/
 ---

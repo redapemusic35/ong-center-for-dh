@@ -1,4 +1,4 @@
 ---
 title: Tools
-listing: tools
+listing: ../tools/
 ---
