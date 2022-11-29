@@ -9,7 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-  collections:
-      _tools:
-        categories: false
+    - text: "Collections"
+      menu:
+        - text: "Tools"
+          href: tools.html
 output: distill::distill_article
