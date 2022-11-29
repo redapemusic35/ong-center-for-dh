@@ -12,7 +12,7 @@ navbar:
     - text: "Collections"
       menu:
         - text: "Tools"
-          href: posts.html
+          href: tools.html
       collection:
         posts:
           categories: false
