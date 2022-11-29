@@ -12,9 +12,9 @@ navbar:
     - text: "Collections"
       menu:
         - text: "Tools"
-          href: ./_tools/
+          href: ./_tools/2022-11-28-blah/blah.html
         - text: "Latest News"
-          href: ./_news/
+          href: ./_news/2022-11-28-blah/blah.html
         - text: "Posts"
-          href: ./_posts/
+          href: ./_posts/2022-11-28-blah/blah.html
   output: distill::distill_article
