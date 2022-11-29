@@ -1,5 +1,5 @@
 ---
-title: "Audacity"
+title: "Audacity-2"
 description: |
   A short description of the post.
 author:
@@ -19,4 +19,5 @@ Distill is a publication format for scientific and technical writing, native to 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
+Bloth and things that make no sense.
 

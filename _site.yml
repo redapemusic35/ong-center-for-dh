@@ -1,7 +1,7 @@
 name: "."
-title: "Tools"
+title: "Digital Humanities"
 description: |
-  Tools
+ DH 
 output_dir: "_site"
 navbar:
   right:
@@ -9,9 +9,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-  collections:
-    posts:
-      categories: true
-    tools:
-      categories: true
 output: distill::distill_article
