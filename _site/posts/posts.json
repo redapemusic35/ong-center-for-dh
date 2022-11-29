@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2022-11-28-blah/",
+    "title": "blah",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Monty",
+        "url": {}
+      }
+    ],
+    "date": "2022-11-28",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-11-28T23:29:18-06:00",
+    "input_file": {}
+  }
+]
