@@ -10,6 +10,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Collections"
+      menu:
+        - text: "Tools"
+          href: tools.html
 collections:
   tools:
     categories: true
