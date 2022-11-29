@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T23:15:07-06:00"
+      "last_modified": "2022-11-28T23:25:09-06:00"
     },
     {
       "path": "index.html",
@@ -14,8 +14,8 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-28T23:15:37-06:00"
+      "last_modified": "2022-11-28T23:25:09-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
