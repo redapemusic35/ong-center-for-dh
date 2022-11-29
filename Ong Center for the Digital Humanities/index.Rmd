@@ -3,6 +3,7 @@ title: "Ong Center for the Digital Humanities"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
+listing: tools
 ---
 
 ```{r setup, include=FALSE}
